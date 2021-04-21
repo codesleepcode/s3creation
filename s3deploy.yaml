@@ -3,7 +3,7 @@ Resources:
     Type: AWS::S3::Bucket
     Properties: 
       AccessControl: Private | PublicRead | PublicReadWrite | AuthenticatedRead | LogDeliveryWrite | BucketOwnerRead | BucketOwnerFullControl
-      BucketName: sidprojectcloudformation
+      BucketName: sidprojectcloudformationupdatedversion
      
 
 Outputs:
