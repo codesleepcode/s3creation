@@ -4,14 +4,7 @@ Resources:
     Properties: 
       AccessControl: Private | PublicRead | PublicReadWrite | AuthenticatedRead | LogDeliveryWrite | BucketOwnerRead | BucketOwnerFullControl
       BucketName: sidprojectcloudformation
-      CorsConfiguration: 
-      LifecycleConfiguration: 
-      NotificationConfiguration: 
-      VersioningConfiguration: 
-      WebsiteConfiguration: 
-      Tags:
-        - Key: key
-          Value: value
+     
 
 Outputs:
   stackbucketname:
