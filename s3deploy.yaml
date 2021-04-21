@@ -2,7 +2,7 @@ Resources:
   Mys3Bucket:
     Type: AWS::S3::Bucket
     Properties: 
-      AccessControl: Private | PublicRead | PublicReadWrite | AuthenticatedRead | LogDeliveryWrite | BucketOwnerRead | BucketOwnerFullControl
+      AccessControl: PublicRead
       BucketName: sidprojectcloudformationupdatedversion
      
 
